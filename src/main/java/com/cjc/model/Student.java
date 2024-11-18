@@ -7,8 +7,7 @@ import javax.persistence.Id;
 public class Student 
 {
 
-       private int i ;
-
+      private int i ;
 	@Id
 	private int rollno ;
 	
