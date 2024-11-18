@@ -8,7 +8,7 @@ public class Student
 {
 
 
-
+private int i ;
 
 	@Id
 	private int rollno ;
